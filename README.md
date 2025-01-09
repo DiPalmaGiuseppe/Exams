@@ -217,6 +217,30 @@ Other questions
 ## ARTIFICIAL INTELLIGENCE FUNDAMENTALS
 
 <details>
+  <summary>:us: Jan 2025</summary> 
+
+  - Group 1
+    <ul>
+      <li> Describe what CPS are, formal definition and make an example
+      <li> Write FOL forward chaining pseudo code algorithm
+      <li> Describe the key concept of DPLL and give an example
+    </ul>
+    
+  - Group 2
+    <ul>
+      <li> Describe what PEAS is and give an example
+      <li> Describe Genetic Algorithm
+      <li> Descibre Prolog
+    </ul>
+  
+  - Group 3
+    <ul>
+      <li> What are Bayesian Networks? Give an example
+      <li> Write the Hill Climb pseudo code algorithm
+      <li> Write some details about the unification rule and make an example
+    </ul>  
+</details>
+<details>
   <summary>:us: 2021-22</summary>
 
   - Talk about KR&R in general and its connection with classical logic. What is the problem of classical logic? (monotonicity)
